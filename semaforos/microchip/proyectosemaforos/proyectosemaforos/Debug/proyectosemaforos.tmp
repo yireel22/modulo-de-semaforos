@@ -1,0 +1,57 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega168P"</DEVICE>
+ <WORKING_DIR>C:\Users\yireel andrade\Documents\Atmel Studio\7.0\proyectosemaforos\proyectosemaforos\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\yireel andrade\Documents\Atmel Studio\7.0\proyectosemaforos\proyectosemaforos\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m168Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m168pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\yireel andrade\Documents\Atmel Studio\7.0\proyectosemaforos\proyectosemaforos\Debug\proyectosemaforos.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>proyectosemaforos.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>proyectosemaforos.map</FILE>
+  <FILE>proyectosemaforos.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>C:\Users\yireel andrade\Documents\Atmel Studio\7.0\proyectosemaforos\proyectosemaforos\main.asm</FILE><LINE>56</LINE></RESET>
+  <DELAY_1S><FILE>C:\Users\yireel andrade\Documents\Atmel Studio\7.0\proyectosemaforos\proyectosemaforos\main.asm</FILE><LINE>7</LINE></DELAY_1S>
+  <OUTER_1><FILE>C:\Users\yireel andrade\Documents\Atmel Studio\7.0\proyectosemaforos\proyectosemaforos\main.asm</FILE><LINE>9</LINE></OUTER_1>
+  <MIDDLE_1><FILE>C:\Users\yireel andrade\Documents\Atmel Studio\7.0\proyectosemaforos\proyectosemaforos\main.asm</FILE><LINE>11</LINE></MIDDLE_1>
+  <INNER_1><FILE>C:\Users\yireel andrade\Documents\Atmel Studio\7.0\proyectosemaforos\proyectosemaforos\main.asm</FILE><LINE>13</LINE></INNER_1>
+  <DELAY_01S><FILE>C:\Users\yireel andrade\Documents\Atmel Studio\7.0\proyectosemaforos\proyectosemaforos\main.asm</FILE><LINE>22</LINE></DELAY_01S>
+  <OUTER_01><FILE>C:\Users\yireel andrade\Documents\Atmel Studio\7.0\proyectosemaforos\proyectosemaforos\main.asm</FILE><LINE>24</LINE></OUTER_01>
+  <MIDDLE_01><FILE>C:\Users\yireel andrade\Documents\Atmel Studio\7.0\proyectosemaforos\proyectosemaforos\main.asm</FILE><LINE>26</LINE></MIDDLE_01>
+  <INNER_01><FILE>C:\Users\yireel andrade\Documents\Atmel Studio\7.0\proyectosemaforos\proyectosemaforos\main.asm</FILE><LINE>28</LINE></INNER_01>
+  <DELAY_MULTIPLE><FILE>C:\Users\yireel andrade\Documents\Atmel Studio\7.0\proyectosemaforos\proyectosemaforos\main.asm</FILE><LINE>37</LINE></DELAY_MULTIPLE>
+  <DELAY_LOOP><FILE>C:\Users\yireel andrade\Documents\Atmel Studio\7.0\proyectosemaforos\proyectosemaforos\main.asm</FILE><LINE>39</LINE></DELAY_LOOP>
+  <RETARDO_LOOP><FILE>C:\Users\yireel andrade\Documents\Atmel Studio\7.0\proyectosemaforos\proyectosemaforos\main.asm</FILE><LINE>46</LINE></RETARDO_LOOP>
+  <RETARDO_SEGUNDO><FILE>C:\Users\yireel andrade\Documents\Atmel Studio\7.0\proyectosemaforos\proyectosemaforos\main.asm</FILE><LINE>48</LINE></RETARDO_SEGUNDO>
+  <CICLO_PRINCIPAL><FILE>C:\Users\yireel andrade\Documents\Atmel Studio\7.0\proyectosemaforos\proyectosemaforos\main.asm</FILE><LINE>63</LINE></CICLO_PRINCIPAL>
+  <INICIAR_TURNO_1><FILE>C:\Users\yireel andrade\Documents\Atmel Studio\7.0\proyectosemaforos\proyectosemaforos\main.asm</FILE><LINE>67</LINE></INICIAR_TURNO_1>
+  <PARPADEO_PB3_T1><FILE>C:\Users\yireel andrade\Documents\Atmel Studio\7.0\proyectosemaforos\proyectosemaforos\main.asm</FILE><LINE>80</LINE></PARPADEO_PB3_T1>
+  <TERMINAR_TURNO_1><FILE>C:\Users\yireel andrade\Documents\Atmel Studio\7.0\proyectosemaforos\proyectosemaforos\main.asm</FILE><LINE>90</LINE></TERMINAR_TURNO_1>
+  <INICIAR_TURNO_2><FILE>C:\Users\yireel andrade\Documents\Atmel Studio\7.0\proyectosemaforos\proyectosemaforos\main.asm</FILE><LINE>98</LINE></INICIAR_TURNO_2>
+  <PARPADEO_PB1_T2><FILE>C:\Users\yireel andrade\Documents\Atmel Studio\7.0\proyectosemaforos\proyectosemaforos\main.asm</FILE><LINE>111</LINE></PARPADEO_PB1_T2>
+  <TERMINAR_TURNO_2><FILE>C:\Users\yireel andrade\Documents\Atmel Studio\7.0\proyectosemaforos\proyectosemaforos\main.asm</FILE><LINE>121</LINE></TERMINAR_TURNO_2>
+  <INICIAR_TURNO_3><FILE>C:\Users\yireel andrade\Documents\Atmel Studio\7.0\proyectosemaforos\proyectosemaforos\main.asm</FILE><LINE>129</LINE></INICIAR_TURNO_3>
+  <TERMINAR_TURNO_3><FILE>C:\Users\yireel andrade\Documents\Atmel Studio\7.0\proyectosemaforos\proyectosemaforos\main.asm</FILE><LINE>144</LINE></TERMINAR_TURNO_3>
+  <INICIAR_TURNO_4><FILE>C:\Users\yireel andrade\Documents\Atmel Studio\7.0\proyectosemaforos\proyectosemaforos\main.asm</FILE><LINE>152</LINE></INICIAR_TURNO_4>
+  <PARPADEO_PC1_T4><FILE>C:\Users\yireel andrade\Documents\Atmel Studio\7.0\proyectosemaforos\proyectosemaforos\main.asm</FILE><LINE>165</LINE></PARPADEO_PC1_T4>
+  <TERMINAR_TURNO_4><FILE>C:\Users\yireel andrade\Documents\Atmel Studio\7.0\proyectosemaforos\proyectosemaforos\main.asm</FILE><LINE>175</LINE></TERMINAR_TURNO_4>
+  <INICIAR_TURNO_5><FILE>C:\Users\yireel andrade\Documents\Atmel Studio\7.0\proyectosemaforos\proyectosemaforos\main.asm</FILE><LINE>183</LINE></INICIAR_TURNO_5>
+  <TERMINAR_TURNO_5><FILE>C:\Users\yireel andrade\Documents\Atmel Studio\7.0\proyectosemaforos\proyectosemaforos\main.asm</FILE><LINE>198</LINE></TERMINAR_TURNO_5>
+  <INICIAR_TURNO_6><FILE>C:\Users\yireel andrade\Documents\Atmel Studio\7.0\proyectosemaforos\proyectosemaforos\main.asm</FILE><LINE>206</LINE></INICIAR_TURNO_6>
+  <PARPADEO_PD1_T6><FILE>C:\Users\yireel andrade\Documents\Atmel Studio\7.0\proyectosemaforos\proyectosemaforos\main.asm</FILE><LINE>219</LINE></PARPADEO_PD1_T6>
+  <TERMINAR_TURNO_6><FILE>C:\Users\yireel andrade\Documents\Atmel Studio\7.0\proyectosemaforos\proyectosemaforos\main.asm</FILE><LINE>229</LINE></TERMINAR_TURNO_6>
+ </LABELS>
+</ASSEMBLER_INFO>
